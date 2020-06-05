@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Learn Git :+1:
+2. Learn Python 
+3. Create a script
+    1. Think of a need
+    2. Look for script templates
